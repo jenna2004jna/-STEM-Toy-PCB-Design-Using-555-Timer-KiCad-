@@ -49,13 +49,13 @@ Design includes:
 ## 🖼️ PCB Design Images
 
 ### 🔹 3D PCB View
-![3D PCB View](Images/image_1.png)
+![3D PCB View](Image_1.png)
 
 ### 🔹 PCB Top View
-![PCB Top View](Images/image_2.png)
+![PCB Top View](Image_2.png)
 
 ### 🔹 PCB Bottom View
-![PCB Bottom View](Images/image_3.png)
+![PCB Bottom View](Image_3.png)
 
 ---
 
