@@ -1,0 +1,13 @@
+Warning: Width correction constrained.  The width correction value must be in the range of [0.000001 mm; 0.199999 mm] for the current design rules.
+Plotted to 'C:\Users\Administrator\Documents\KiCad\Stem_Toy\Stem_Toy-F_Cu.gbr'.
+Plotted to 'C:\Users\Administrator\Documents\KiCad\Stem_Toy\Stem_Toy-B_Cu.gbr'.
+Plotted to 'C:\Users\Administrator\Documents\KiCad\Stem_Toy\Stem_Toy-F_Paste.gbr'.
+Plotted to 'C:\Users\Administrator\Documents\KiCad\Stem_Toy\Stem_Toy-B_Paste.gbr'.
+Plotted to 'C:\Users\Administrator\Documents\KiCad\Stem_Toy\Stem_Toy-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\Administrator\Documents\KiCad\Stem_Toy\Stem_Toy-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\Administrator\Documents\KiCad\Stem_Toy\Stem_Toy-F_Mask.gbr'.
+Plotted to 'C:\Users\Administrator\Documents\KiCad\Stem_Toy\Stem_Toy-B_Mask.gbr'.
+Plotted to 'C:\Users\Administrator\Documents\KiCad\Stem_Toy\Stem_Toy-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\Administrator\Documents\KiCad\Stem_Toy\Stem_Toy-job.gbrjob'.
+Info: Done.
+Info: Done.
